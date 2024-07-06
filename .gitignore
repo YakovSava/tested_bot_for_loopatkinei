@@ -1,0 +1,6 @@
+.idea
+__pycache__
+venv
+.git
+cred.json
+config.ini

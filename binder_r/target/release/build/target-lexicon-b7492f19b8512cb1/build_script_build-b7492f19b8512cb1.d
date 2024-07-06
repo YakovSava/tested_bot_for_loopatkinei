@@ -1,0 +1,8 @@
+C:\Users\JacobSavelev\Desktop\rust_and_python\binder\target\release\build\target-lexicon-b7492f19b8512cb1\build_script_build-b7492f19b8512cb1.exe: C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\build.rs C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\src/data_model.rs C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\src/triple.rs C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\src/targets.rs
+
+C:\Users\JacobSavelev\Desktop\rust_and_python\binder\target\release\build\target-lexicon-b7492f19b8512cb1\build_script_build-b7492f19b8512cb1.d: C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\build.rs C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\src/data_model.rs C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\src/triple.rs C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\src/targets.rs
+
+C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\build.rs:
+C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\src/data_model.rs:
+C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\src/triple.rs:
+C:\Users\JacobSavelev\.cargo\registry\src\index.crates.io-6f17d22bba15001f\target-lexicon-0.12.14\src/targets.rs:
