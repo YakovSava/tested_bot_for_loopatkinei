@@ -1,3 +1,4 @@
+binder_r/target/release
 .idea
 __pycache__
 venv
